@@ -1,0 +1,8 @@
+prefix=/UR_ws/devel
+
+Name: gazebo_ros_project
+Description: Description of gazebo_ros_project
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

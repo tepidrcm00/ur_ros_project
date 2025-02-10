@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: ur_project_ros
+    relative_path: urdf/ur5_gripper_ros.xacro
+    xacro_args: ""
+  SRDF:
+    relative_path: config/ur5_robot.srdf
+  CONFIG:
+    author_name: Rafael Cruz
+    author_email: rafael.cruzma@gmail.com
+    generated_timestamp: 1736694930

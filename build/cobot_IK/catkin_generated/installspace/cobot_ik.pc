@@ -1,0 +1,8 @@
+prefix=/UR_ws/install
+
+Name: cobot_ik
+Description: Description of cobot_ik
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/UR_ws/install
+
+Name: ur_grip_ROS
+Description: Description of ur_grip_ROS
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

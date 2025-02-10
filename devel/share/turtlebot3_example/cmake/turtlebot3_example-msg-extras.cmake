@@ -1,0 +1,2 @@
+set(turtlebot3_example_MESSAGE_FILES "/UR_ws/devel/share/turtlebot3_example/msg/Turtlebot3Action.msg;/UR_ws/devel/share/turtlebot3_example/msg/Turtlebot3ActionGoal.msg;/UR_ws/devel/share/turtlebot3_example/msg/Turtlebot3ActionResult.msg;/UR_ws/devel/share/turtlebot3_example/msg/Turtlebot3ActionFeedback.msg;/UR_ws/devel/share/turtlebot3_example/msg/Turtlebot3Goal.msg;/UR_ws/devel/share/turtlebot3_example/msg/Turtlebot3Result.msg;/UR_ws/devel/share/turtlebot3_example/msg/Turtlebot3Feedback.msg")
+set(turtlebot3_example_SERVICE_FILES "")
